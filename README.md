@@ -1,6 +1,7 @@
 <div align="center"> 
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seonz%20github%20&fontSize=40&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=5F9EA0&text=SeonzGithub&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
+
 
 ####  :clipboard: Once I've Used 
 
