@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=1f2230&text=SeonzGitHub&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2a3462&text=SeonzGitHub&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
 #
 ####  :clipboard: Once I've Used 
 
