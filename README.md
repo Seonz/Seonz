@@ -3,7 +3,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2a3462&text=SeonzGitHub&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
 #
 ####  :clipboard: Once I've Used 
-
+<br>
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -23,8 +23,8 @@
 </div>
 
 #
-
 #### :pencil2: Study log
+<br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seonz&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
