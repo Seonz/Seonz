@@ -25,5 +25,9 @@
 #
 
 #### :pencil2: Study log
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seonz&show_icons=true&theme=tokyonight)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seonz&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seonz&theme=tokyonight&show_icons=true" width="42%" />
+</a>
