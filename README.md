@@ -23,6 +23,40 @@
 </div>
 
 #
+#### 📚 History
+
+ <table style="border: 1px solid;">
+            <th>Date</th>
+            <th>Contents</th>
+            <th>With<th>
+        <tr>
+            <th>23.07.31 - 23.08.17</th>
+            <th>--</th>
+            <th>--</th>
+        </tr>
+        <tr>
+            <th>23.06.11 - 23.06.25</th>
+            <th>Lecturer in<br>(JSP, Servite, MariaDB 활용)</th>
+            <th>https://github.com/Seonz/Servlet_JSP_WebSite.git</th>
+        </tr>
+        <tr>
+            <th>23.05.22 - 23.05.29</th>
+            <th>Hotel Life(JAVA)</a></th>
+            <th>https://github.com/Seonz/HotelLife.git</a></th>
+        </tr>
+        <tr>
+            <th>23.04.12 - 23.08.17</th>
+            <th>국비 AWS 활용 풀스택 개발 과정 수료</th>
+            <th>이젠컴퓨터아카데미</th>
+        </tr>
+        <tr>
+            <th>18.03 - 22.02</th>
+            <th>컴퓨터정보공학부 졸업</th>
+            <th>-</th>
+        </tr>
+    </table>
+
+#
 #### :pencil2: Study log
 <br>
 <a href="s">
