@@ -23,39 +23,23 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
+
+
 #
 #### 📚 History
+<div align="center">
 
- <table style="border: 1px solid;">
-            <th>Date</th>
-            <th>Contents</th>
-            <th>With<th>
-        <tr>
-            <th>23.07.31 - 23.08.17</th>
-            <th>--</th>
-            <th>--</th>
-        </tr>
-        <tr>
-            <th>23.06.11 - 23.06.25</th>
-            <th>Lecturer in<br>(JSP, Servite, MariaDB 활용)</th>
-            <th>https://github.com/Seonz/Servlet_JSP_WebSite.git</th>
-        </tr>
-        <tr>
-            <th>23.05.22 - 23.05.29</th>
-            <th>Hotel Life(JAVA)</a></th>
-            <th>https://github.com/Seonz/HotelLife.git</a></th>
-        </tr>
-        <tr>
-            <th>23.04.12 - 23.08.17</th>
-            <th>국비 AWS 활용 풀스택 개발 과정 수료</th>
-            <th>이젠컴퓨터아카데미</th>
-        </tr>
-        <tr>
-            <th>18.03 - 22.02</th>
-            <th>컴퓨터정보공학부 졸업</th>
-            <th>-</th>
-        </tr>
-    </table>
+| Date | Contents | git |
+|:---:|:---:|:---:|
+| 23.08 ~ ing | 팀 프로젝트 Springboot, React를 활용한 개발 진행 중  | <a href=https://github.com/Seonz/zzz11.git>NeterPark
+| 23.07 ~ 23.08 | SpringBoot 팀 프로젝트 개발 | <a href=https://github.com/Seonz/TravelProject.git>TravelProject
+| 23.06 ~ 23.07 | JSP 팀 프로젝트 개발 | <a href=https://github.com/Seonz/Servlet_JSP_WebSite.git>Lecturer in
+| 23.04 ~ 23.05 | JAVA 팀 프로젝트 개발 | <a href=https://github.com/Seonz/HotelLife.git>Hotel LIfe
+| 23.04 - 23.08 | 국비 풀스택 개발 과정 수료 | -
+| 18.03 - 22.02 | 컴퓨터정보공학부 졸업 | -
+
+  
+</div>
 
 #
 #### :pencil2: Study log
